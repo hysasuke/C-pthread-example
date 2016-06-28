@@ -2,7 +2,7 @@
 //  threadP.c
 //  
 //
-//  Created by BennyLi on 16/6/27.
+//  Created by MentalArea on 16/6/27.
 //
 //
 
